@@ -1,0 +1,62 @@
+[
+    {
+        "link": "https://www.idealista.com/inmueble/91921656/",
+        "direccion": "Divino Pastor, 32",
+        "eur_mensualidad": "680",
+        "eur_entrar": "2040",
+        "eur_recuperables": "680",
+        "worth_it": "1360",
+        "fecha_visita": "25-11-2020",
+        "is_documentacion_entragada": "",
+        "contact": "JUAN PABLO 691864587",
+        "descripción": null
+    },
+    {
+        "link": "https://www.idealista.com/inmueble/92101695/",
+        "direccion": "Plaza españa",
+        "eur_mensualidad": "825",
+        "eur_entrar": "2475",
+        "eur_recuperables": "1650",
+        "worth_it": "1650",
+        "fecha_visita": "",
+        "is_documentacion_entragada": "",
+        "contact": "RAMIRO RAMIREZ",
+        "descripción": null
+    },
+    {
+        "link": "https://www.idealista.com/inmueble/92087620/",
+        "direccion": "Fuencarral, 59  4D se entra por santa barbara ",
+        "eur_mensualidad": "750",
+        "eur_entrar": "1500 + 750",
+        "eur_recuperables": "1400",
+        "worth_it": "",
+        "fecha_visita": "15-12-2020 a las 5 y media",
+        "is_documentacion_entragada": "",
+        "contact": "Cristina 675314277",
+        "descripción": "Está guay el primero de 750 pero claro habria que ver el Internet si va bien."
+    },
+    {
+        "link": "https://www.idealista.com/inmueble/27287680/",
+        "direccion": "Santo Domingo 2 ",
+        "eur_mensualidad": "750",
+        "eur_entrar": "",
+        "eur_recuperables": "",
+        "worth_it": "",
+        "fecha_visita": "17-12-2020 a las 7",
+        "is_documentacion_entragada": "",
+        "contact": "Virginia 630 204 134",
+        "descripción": "No está mal da sensación un poco de opresión "
+    },
+    {
+        "link": "https://www.idealista.com/inmueble/92093019/",
+        "direccion": "Ferrocarril 25 ",
+        "eur_mensualidad": "",
+        "eur_entrar": "",
+        "eur_recuperables": "",
+        "worth_it": "",
+        "fecha_visita": "",
+        "is_documentacion_entragada": "",
+        "contact": "Liseth ",
+        "descripción": null
+    }
+]
